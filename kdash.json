@@ -1,12 +1,12 @@
 {
   "homepage": "https://github.com/kdash-rs/kdash",
   "description": "A fast and simple dashboard for Kubernetes",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kdash-rs/kdash/releases/download/v0.2.6/kdash-windows.tar.gz",
-      "hash": "ad553f3e4db3a5a44fb243112daa1d33b190c9f85de135cff5d59b4d08fb3f0f"
+      "url": "https://github.com/kdash-rs/kdash/releases/download/v0.2.7/kdash-windows.tar.gz",
+      "hash": "05ea86f5ef7aa42464dcfbeca41a820bf5b6d14e9c2ef643999993620d6e1f0b"
     }
   },
   "bin": "kdash.exe",
