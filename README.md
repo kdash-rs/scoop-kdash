@@ -13,7 +13,7 @@ A simple terminal dashboard for Kubernetes built with Rust
 
 # Install
 
-```bash
+```powershell
 scoop bucket add kdash-bucket https://github.com/kdash-rs/scoop-kdash
 scoop install kdash
 ```
