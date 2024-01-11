@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Install Scoop
-        uses: MinoruSekine/setup-scoop@v1
+        uses: MinoruSekine/setup-scoop@main
       - name: Install KDash
         shell: pwsh
         run: |
